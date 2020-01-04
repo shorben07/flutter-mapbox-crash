@@ -1,0 +1,27 @@
+PODS:
+  - Flutter (1.0.0)
+  - Mapbox-iOS-SDK (5.6.0):
+    - MapboxMobileEvents (= 0.10.2)
+  - MapboxMobileEvents (0.10.2)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - Mapbox-iOS-SDK (~> 5.6.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Mapbox-iOS-SDK
+    - MapboxMobileEvents
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  Mapbox-iOS-SDK: 913c4655bd72a200f84996caf7a755b377abc77f
+  MapboxMobileEvents: 2bc0ca2eedb627b73cf403258dce2b2fa98074a6
+
+PODFILE CHECKSUM: d850dfce84a45424101e5607cf313e3dfa5e3f1a
+
+COCOAPODS: 1.8.4
